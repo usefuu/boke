@@ -1,0 +1,12 @@
+
+.inpout ,.inpout :focus{
+    border-color: white;
+    border-right-width: 0px !important;
+    -webkit-box-shadow: 0 0 0 2px rgba(252, 252, 252, 0.2) !important;
+    box-shadow: 0 0 0 2px rgba(252, 252, 252, 0.2) !important;
+    font-size: 18px
+}
+:global(.ant-card-head-title){
+    font-size: 22px !important;
+    font-weight: bold;
+}
